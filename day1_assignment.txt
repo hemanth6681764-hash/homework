@@ -1,0 +1,119 @@
+print("hey there,")
+print("i am full stack developer ")
+
+2 # python variables
+# python variables are used to store data
+Name="hemanth"
+Age="21"
+print(Name)
+print(Age)
+
+
+3 print("Hello")
+  print("hemanth")
+
+4
+print("Hello", end=" ")
+print("World")
+
+5
+print("Raja\tShekhar")
+print("Pavan\tSurya")
+
+
+6
+a =10
+b =20
+c =30
+print(f"My First Number is: {a}")
+print(f"My Second Number is: {b}")
+print(f"My Third Number is: {c}")
+
+7
+java =float(90);
+python =80;
+database =70;
+WedDevelopment =60;
+DotNet =50;
+
+print("My Java Marks is :",java)
+print("My Python Marks is:", python)
+print("My Database marks is:",database)
+print("My WedDevelopment marks is:",WedDevelopment)
+print("My DotNet marks is:",DotNet)
+
+
+8
+a, b, c= 10, 20, 30
+print ("a =",a)
+print("b =",b)
+print("c =",c)
+
+9
+print("+ " *6)
+print("@ "*6)
+print("* "*6)
+print("# "*6)
+
+10
+A programming language is a set of instructions and rules used to communicate with a computer to perform specific tasks ,such as building applications ,websites,or systems.
+
+
+11
+A computer language is a method of communication between humans and computers.
+
+12
+Low-level languages - machine language and assembly language
+high-level languages -python,java,c++,etc
+Markup/scripting languages -Html, javascript,shell scripts,etc.
+
+
+13
+x = 10
+name = "Raja"
+
+14
+# Initial values
+j = 37
+k = 52
+print("Sum:", j + k)
+
+# Re-assign values
+j = 8
+k = 3
+print("Sum:", j + k)
+print("Product:", j * k)
+
+15
+FirstName = "Raja"
+LastName = "Shekhar"
+PhoneNumber = "9xxxxxxxx"
+Email = "raj@person1.com"
+JavaMarks = 70
+PythonMarks = 90
+Database = 90
+WebDevelopment = 90
+TotalMarks = 340
+Average = 85.00
+
+print("First Name:", FirstName, type(FirstName))
+print("Last Name:", LastName, type(LastName))
+print("Phone Number:", PhoneNumber, type(PhoneNumber))
+print("Email:", Email, type(Email))
+print("Java Marks:", JavaMarks, type(JavaMarks))
+print("Python Marks:", PythonMarks, type(PythonMarks))
+print("Database:", Database, type(Database))
+print("Web Development:", WebDevelopment, type(WebDevelopment))
+print("Total Marks:", TotalMarks, type(TotalMarks))
+print("Average:", Average, type(Average))
+
+
+
+
+
+
+
+
+
+
+

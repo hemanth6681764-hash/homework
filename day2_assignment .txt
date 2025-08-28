@@ -1,0 +1,50 @@
+# Day 2
+
+
+# 1
+num1 = 8
+num2 = 5
+
+print("multiplication:",num1*num2)
+print("sum:",num1+num2)
+
+2
+word="QualityThought"
+result=word[0]+ word[len(word)//2]+ word[-1]
+print(result)
+
+3 num =100
+half = num // 2
+print(f"one half of {num} is {half}")
+
+myTotal = 4 + 2 * 8 - 6 
+print(myTotal)
+
+myTotal = 7 // 5 
+print(myTotal)
+
+myTotal = (8 + 2) * 10
+print(myTotal)
+
+myTotal = 8 + 2 * 10
+print(myTotal)
+
+myTotal = 8 + 10 / 2 
+print(myTotal)
+
+myTotal = (8 + 10) / 2
+print(myTotal)
+
+numberOne= 16
+numberTwo= 4
+answer1 = numberOne + numberTwo + 20  
+answer2 = 10 * numberOne + (numberTwo + 20)  
+answer3 = numberOne + 20 + numberTwo - 10 
+print(answer1)
+print(answer2)
+print(answer3)
+
+FirstName ="Quality"
+SecondName ="Thought"
+print(FirstName + SecondName)
+
